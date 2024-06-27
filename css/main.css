@@ -140,14 +140,14 @@
     font-size: .875em;
     line-height: 1.285;
   }
-
+  
   img {
     width: 100%;
   }
   
   figure {
     margin: 0;
-  }  
+  }
   
   address {
     font-style: normal;
@@ -174,7 +174,7 @@
     align-items: center;
     flex-flow: row wrap;
   }
-
+  
   header figure {
     width: 60%;
   }
@@ -529,6 +529,10 @@
   
     /* Hero Area */
   
+    .hero-area {
+      min-height: 600px;
+    }
+  
     .hero-area h1 {
       font-size: 3em;
       line-height: 1;
@@ -576,6 +580,7 @@
       width: 85%;
     }
   
+    .reviews article figure,
     .reviews article div {
       width: 49%;
     }
@@ -713,6 +718,7 @@
     }
   
     /* Features */
+  
   
     .features h2 {
       width: 90%;
