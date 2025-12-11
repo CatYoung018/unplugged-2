@@ -7,6 +7,14 @@ A fully responsive, multi-page retreat website designed with a mobile-first appr
 ![JavaScript](https://img.shields.io/badge/JavaScript-2.1%25-yellow)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-brightgreen)
 
+
+## 📸 Preview
+
+<div align="center"><img width="1677" height="984" alt="Screenshot 2025-12-11 at 12 43 52 PM" src="https://github.com/user-attachments/assets/092445b6-f119-4837-9032-fe0ef15b2952" /><p><em>Responsive retreat website featuring mobile-first design</em></p>
+</div>
+
+
+
 🌐 **[View Live Site](https://catyoung018.github.io/unplugged-2/)**
 
 ---
